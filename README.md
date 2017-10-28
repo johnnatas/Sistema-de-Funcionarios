@@ -1,7 +1,7 @@
 # Sistema-de-Funcionarios
 Sistema simples de gerenciamento de funcionário para estudo de sintaxe Python
 
-#Requisitos
+# Requisitos
 - Python 3.4
 - Conector mysql-connector-python 3.4
 
